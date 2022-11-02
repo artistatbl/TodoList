@@ -7,4 +7,6 @@ Desktop view
 
 
 Mobile View
+
+
 ![todo](https://user-images.githubusercontent.com/88166536/199549319-df19e57d-d6e4-47a4-80fb-9f0aa9ec0480.PNG)
